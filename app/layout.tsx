@@ -5,34 +5,34 @@ import { Analytics } from "@vercel/analytics/next"
 import "./globals.css"
 
 const orbitron = Orbitron({
-  subsets: ["latin"],
-  variable: "--font-orbitron",
-  display: "swap",
+	subsets: ["latin"],
+	variable: "--font-orbitron",
+	display: "swap",
 })
 
 const montserrat = Montserrat({
-  subsets: ["latin"],
-  variable: "--font-montserrat",
-  display: "swap",
+	subsets: ["latin"],
+	variable: "--font-montserrat",
+	display: "swap",
 })
 
 export const metadata: Metadata = {
-  title: "Car-Organize | Premium Car Storage Solutions",
-  description: "Organize the Heat. Control the Drive. Premium car organizers built for energy, speed, and precision.",
-  generator: "v0.app",
+	title: "Car-Organize | Premium Car Storage Solutions",
+	description: "Organize the Heat. Control the Drive. Premium car organizers built for energy, speed, and precision.",
+	referrer: 'unsafe-url'
 }
 
 export default function RootLayout({
-  children,
+	children,
 }: Readonly<{
-  children: React.ReactNode
+	children: React.ReactNode
 }>) {
-  return (
-    <html lang="en" className={`${orbitron.variable} ${montserrat.variable}`}>
-      <body className={`font-mono antialiased`}>
-        {children}
-        <Analytics />
-      </body>
-    </html>
-  )
+	return (
+		<html lang="en" className={`${orbitron.variable} ${montserrat.variable}`}>
+			<body className={`font-mono antialiased`}>
+				{children}
+				<Analytics />
+			</body>
+		</html>
+	)
 }
