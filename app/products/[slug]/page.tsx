@@ -29,7 +29,7 @@ const products = [
 			'Dimensions: 23" x 13" x 10"',
 			"Vacuum with 16-ft cord for easy reach",
 		],
-		amazonLink: "https://www.amazon.com/ThisWorx-Vacuum-Drive-Organizer-Bundle/dp/B09ZGX7QVP",
+		amazonLink: "https://amzn.to/3Jz7olT",
 	},
 	{
 		id: 2,
@@ -52,7 +52,7 @@ const products = [
 			'Dimensions: 22" x 14" x 11"',
 			"Includes bonus storage lid",
 		],
-		amazonLink: "https://www.amazon.com/FORTEM-Organizer-Collapsible-Securing-Included/dp/B01DIMTWCS",
+		amazonLink: "https://amzn.to/4ou3Wbg",
 	},
 	{
 		id: 3,
@@ -75,7 +75,7 @@ const products = [
 			'Dimensions: 21" x 12" x 10"',
 			"Available in black and gray",
 		],
-		amazonLink: "https://www.amazon.com/Honey-Can-Do-Folding-Trunk-Organizer-Black/dp/B004ZVN78C",
+		amazonLink: "https://amzn.to/4hSI0UT",
 	},
 	{
 		id: 4,
@@ -98,7 +98,7 @@ const products = [
 			'Dimensions: 9" x 5" x 1"',
 			"Sleek black finish",
 		],
-		amazonLink: "https://www.amazon.com/Registration-Insurance-Organizer-Accessories-Essential/dp/B09B7DMRG5",
+		amazonLink: "https://amzn.to/3Xko2c0",
 	},
 	{
 		id: 5,
@@ -121,7 +121,7 @@ const products = [
 			'Dimensions: 24" x 15" x 12"',
 			"Weight capacity: 60 lbs",
 		],
-		amazonLink: "https://www.amazon.com/Gorilla-Grip-Travel-Trunk-Organizer/dp/B0C6NMWVPS",
+		amazonLink: "https://amzn.to/47K7LBX",
 	},
 	{
 		id: 6,
@@ -144,7 +144,7 @@ const products = [
 			'Dimensions: 16" x 9" x 8"',
 			"Ideal for travel toiletries",
 		],
-		amazonLink: "https://www.amazon.com/NISHEL-Full-Sized-Conditioner-Travel-Size-Accessories/dp/B0CXDVNL64",
+		amazonLink: "https://amzn.to/3WN2WTz",
 	},
 	{
 		id: 7,
@@ -167,7 +167,7 @@ const products = [
 			'Dimensions: 28" x 16" x 13"',
 			"Non-slip bottom strips",
 		],
-		amazonLink: "https://www.amazon.com/HOTOR-Trunk-Organizer-Car-Large-Capacity/dp/B0CCRV51YC",
+		amazonLink: "https://amzn.to/4oGguMI",
 	},
 	{
 		id: 8,
@@ -190,7 +190,7 @@ const products = [
 			'Dimensions: 22" x 13" x 11"',
 			"Machine-washable material",
 		],
-		amazonLink: "https://www.amazon.com/Breathable-Storage-Handles-Garment-Bedding/dp/B0CKSC1JT4",
+		amazonLink: "https://amzn.to/47vvqY5",
 	},
 	{
 		id: 9,
@@ -213,7 +213,7 @@ const products = [
 			'Dimensions: 25" x 10" x 12"',
 			"Fits most vehicle seats",
 		],
-		amazonLink: "https://www.amazon.com/WLLWOO-Handbag-Between-Storage-Organizer/dp/B099DKRXZL",
+		amazonLink: "https://amzn.to/4p3c0Qo",
 	},
 ]
 

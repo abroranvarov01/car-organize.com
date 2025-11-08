@@ -14,7 +14,7 @@ const products = [
     reviews: 1500,
     image: "https://m.media-amazon.com/images/I/51m9x9FDwhL._AC_SX679_.jpg",
     features: ["Car vacuum included", "Multiple compartments", "Collapsible design", "Portable"],
-    amazonLink: "https://www.amazon.com/ThisWorx-Vacuum-Drive-Organizer-Bundle/dp/B09ZGX7QVP",
+    amazonLink: "https://amzn.to/3Jz7olT",
   },
   {
     id: 2,
@@ -25,7 +25,7 @@ const products = [
     reviews: 2500,
     image: "https://m.media-amazon.com/images/I/81tOvk78l4L._AC_SX679_.jpg",
     features: ["Collapsible design", "Securing straps included", "Waterproof material", "Multiple compartments"],
-    amazonLink: "https://www.amazon.com/FORTEM-Organizer-Collapsible-Securing-Included/dp/B01DIMTWCS",
+    amazonLink: "https://amzn.to/4ou3Wbg",
   },
   {
     id: 3,
@@ -36,7 +36,7 @@ const products = [
     reviews: 1200,
     image: "https://m.media-amazon.com/images/I/710cSVDC-3L._AC_SX679_.jpg",
     features: ["Foldable design", "Durable fabric", "Easy to clean", "Lightweight"],
-    amazonLink: "https://www.amazon.com/Honey-Can-Do-Folding-Trunk-Organizer-Black/dp/B004ZVN78C",
+    amazonLink: "https://amzn.to/4hSI0UT",
   },
   {
     id: 4,
@@ -47,7 +47,7 @@ const products = [
     reviews: 800,
     image: "https://m.media-amazon.com/images/I/8178ZCwRyUL._AC_SX679_.jpg",
     features: ["Compact size", "Document protection", "Easy access", "Durable material"],
-    amazonLink: "https://www.amazon.com/Registration-Insurance-Organizer-Accessories-Essential/dp/B09B7DMRG5",
+    amazonLink: "https://amzn.to/3Xko2c0",
   },
   {
     id: 5,
@@ -58,7 +58,7 @@ const products = [
     reviews: 1800,
     image: "https://m.media-amazon.com/images/I/81cSlvYuHTL._AC_SX679_.jpg",
     features: ["Heavy-duty construction", "Non-slip base", "Large capacity", "Adjustable straps"],
-    amazonLink: "https://www.amazon.com/Gorilla-Grip-Travel-Trunk-Organizer/dp/B0C6NMWVPS",
+    amazonLink: "https://amzn.to/47K7LBX",
   },
   {
     id: 6,
@@ -69,7 +69,7 @@ const products = [
     reviews: 600,
     image: "https://m.media-amazon.com/images/I/81ig0y8oZzL._SX679_.jpg",
     features: ["Travel-size accessory storage", "Multiple pockets", "Durable material", "Portable design"],
-    amazonLink: "https://www.amazon.com/NISHEL-Full-Sized-Conditioner-Travel-Size-Accessories/dp/B0CXDVNL64",
+    amazonLink: "https://amzn.to/3WN2WTz",
   },
   {
     id: 7,
@@ -80,7 +80,7 @@ const products = [
     reviews: 2000,
     image: "https://m.media-amazon.com/images/I/91JJ+mKxkFL._AC_SX679_.jpg",
     features: ["Extra-large capacity", "Reinforced walls", "Collapsible", "Water-resistant"],
-    amazonLink: "https://www.amazon.com/HOTOR-Trunk-Organizer-Car-Large-Capacity/dp/B0CCRV51YC",
+    amazonLink: "https://amzn.to/4oGguMI",
   },
   {
     id: 8,
@@ -91,7 +91,7 @@ const products = [
     reviews: 900,
     image: "https://m.media-amazon.com/images/I/51FKGDCt2RL._AC_SX679_PIbundle-3,TopRight,0,0_SH20_.jpg",
     features: ["Breathable fabric", "Durable handles", "Foldable design", "Multi-purpose storage"],
-    amazonLink: "https://www.amazon.com/Breathable-Storage-Handles-Garment-Bedding/dp/B0CKSC1JT4",
+    amazonLink: "https://amzn.to/47vvqY5",
   },
   {
     id: 9,
@@ -102,7 +102,7 @@ const products = [
     reviews: 1100,
     image: "https://m.media-amazon.com/images/I/71KHXI4+m7L._AC_SX679_.jpg",
     features: ["Handbag storage", "Adjustable compartments", "Sturdy construction", "Easy to install"],
-    amazonLink: "https://www.amazon.com/WLLWOO-Handbag-Between-Storage-Organizer/dp/B099DKRXZL",
+    amazonLink: "https://amzn.to/4p3c0Qo",
   },
 ]
 
